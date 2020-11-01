@@ -6,4 +6,8 @@ Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 easierApp
 Zmiana10
+<<<<<<< HEAD
 Prostazmiana
+=======
+ZmianaKLON
+>>>>>>> df152d89d03a693bdd72d8f471fa4f690ee4048c
